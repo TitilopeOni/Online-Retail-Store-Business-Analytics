@@ -18,6 +18,7 @@ Gathered requirements, and understood metrics/measures required.
 2. Data Inspection & Cleaning
 i.	Checked for validity (I.e price should not be less than or equal to zero and quantity less than zero)
 Removed data that fell into this set
+
 ii.	Checked for completeness (missing data)- removed null rows
 -Customer ID and Description had empty rolls
 -In the country column, some revenue where unspecified (not allocated to a country), there is not enough information to delete or say it is irrelevant. Would need to elicit more information in this regard.
@@ -26,15 +27,15 @@ Quantity (should be whole numbers not text), country (categorized as country- Ge
 iv.	Checked for uniformity in format and measurements- Good
 v.	Enriching, create new column- Revenue
 
-3.	Data Integration – using Power BI- Power query
+4.	Data Integration – using Power BI- Power query
 
-4.	Extraction – ETL
+5.	Extraction – ETL
 
-5.	Descriptive Statistics
+6.	Descriptive Statistics
 
-6.	Data Analysis and Visualisation 
+7.	Data Analysis and Visualisation 
 
-7.	Dashboard reporting to generate insights
+8.	Dashboard reporting to generate insights
 
 
 E.	Insights the CEO would be interested in:
