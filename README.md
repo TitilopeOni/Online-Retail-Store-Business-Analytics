@@ -1,4 +1,4 @@
-# Online-Retail-Store-Data Mining
+# Online-Retail-Store-Business Analytics
 A. Introduction/Problem Statement
 
 The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
